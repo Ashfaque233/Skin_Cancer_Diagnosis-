@@ -3,7 +3,7 @@ Topic name: Cryptographic Authorization for Skin Cancer Diagnostic Models with A
 
 
 Abstract
-This research proposes a novel cryptographic authorization framework for securing AI-powered skin cancer diagnostic models. By integrating advanced cryptographic techniques with deep learning, we aim to protect the confidentiality and integrity of patient data while ensuring the reliability of diagnostic outcomes. The proposed framework leverages homomorphic encryption to enable secure inference on encrypted data, safeguarding privacy. Additionally, blockchain technology is employed to establish a transparent and immutable record of diagnostic processes, enhancing trust and accountability. The integration of these technologies offers a robust solution to address the increasing concerns of data privacy and security in healthcare. This project focuses on developing a secure, AI-based skin cancer diagnostic model using cryptographic authorization and convolutional neural networks (CNN). By combining cryptographic techniques with state-of-the-art deep learning models, the system aims to ensure both high diagnostic accuracy and robust data privacy for patients. The model will be trained on dermoscopic images, leveraging efficient image processing and encryption to create a comprehensive and secure diagnostic tool.
+This research proposes a novel cryptographic authorization framework for securing AI-powered skin cancer diagnostic models. By integrating advanced cryptographic techniques with deep learning, we aim to protect patient data's confidentiality and integrity while ensuring diagnostic outcomes' reliability. The proposed framework leverages homomorphic encryption to enable secure inference on encrypted data, safeguarding privacy. Additionally, blockchain technology establishes a transparent and immutable record of diagnostic processes, enhancing trust and accountability. The integration of these technologies offers a robust solution to address the increasing concerns of data privacy and security in healthcare. This project focuses on developing a secure, AI-based skin cancer diagnostic model using cryptographic authorization and convolutional neural networks (CNN). By combining cryptographic techniques with state-of-the-art deep learning models, the system aims to ensure both high diagnostic accuracy and robust data privacy for patients. The model will be trained on dermoscopic images, leveraging efficient image processing and encryption to create a comprehensive and secure diagnostic tool.
 
 
 
@@ -24,4 +24,4 @@ This research makes several key contributions. It introduces a privacy-preservin
 * Blockchain integration adds an extra layer of trust absent in most current AI diagnostic systems.
 * The framework improves scalability, accuracy, and security while adhering to ethical standards in healthcare.
 
-
+###
